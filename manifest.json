@@ -1,7 +1,7 @@
 {
   "name": "My_Pwa",
   "short_name": "DevCoffee",
-  "start_url": "index.html",
+  "start_url": "/my-pwa-1/",
   "display": "standalone",
   "background_color": "#fdfdfd",
   "theme_color": "#db4938",
